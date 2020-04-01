@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://blog.andreiushakov.io/",
+    "apiUrl": "http://blog.andreiushakov.io",
     "contentApiKey": "07d0451f14dae99489a83c6af2"
   },
   "production": {
-    "apiUrl": "http://blog.andreiushakov.io/",
+    "apiUrl": "http://blog.andreiushakov.io",
     "contentApiKey": "07d0451f14dae99489a83c6af2"
   }
 }
